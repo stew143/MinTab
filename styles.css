@@ -79,6 +79,14 @@ a {
   max-width       : 480px;
 }
 
+#google {
+  flex-flow       : column;
+  align-items     : start;
+  justify-content : center;
+  max-width       : 480px;
+  opacity         : 50%;
+}
+
 #currentTime {
   font-size       : 5rem;
   font-weight     : 700;
