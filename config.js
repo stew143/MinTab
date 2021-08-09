@@ -4,6 +4,10 @@ const CONFIG = {
 
 const ICONS = [
   {
+    icon: "ri-google-fill",
+    link: "https://google.com/"
+  },
+  {
     icon: "ri-youtube-fill",
     link: "https://www.youtube.com/"
   },
