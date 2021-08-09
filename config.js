@@ -17,7 +17,7 @@ const ICONS = [
   },
   {
     icon: "ri-twitter-fill",
-    link: "https://www.twitter.com/"
+    link: "https://www.twitter.com/login"
   },
   {
     icon: "ri-github-fill",
