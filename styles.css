@@ -154,3 +154,10 @@ a {
     margin-bottom   : 16px;
   }
 }
+.middle {
+  margin-top: 60px;
+  text-align: center;
+  text-decoration: none;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
